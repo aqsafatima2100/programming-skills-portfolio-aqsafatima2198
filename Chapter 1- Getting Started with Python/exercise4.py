@@ -8,3 +8,4 @@ concatenated_string = string1 + " " + string2 + string3
 
 # Print the concatenated string
 print("Concatenated String:", concatenated_string)
+
